@@ -33,6 +33,6 @@ I have a passion for building enterprise-grade systems, contributing to open-sou
 ---
 
 ## 📫 Contact Me
-- Email: seyamali@domain.com  
+- Email: seyamhossain482@gmail.com  
 - Portfolio: [seyamali.github.io](https://seyamali.github.io)  
 - LinkedIn: [linkedin.com/in/seyam-ali](https://www.linkedin.com/in/seyam-ali/)
